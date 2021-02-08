@@ -1,0 +1,4 @@
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp2.2\Globomantics.csprojAssemblyReference.cache
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp2.2\Globomantics.csproj.CoreCompileInputs.cache
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp2.2\Globomantics.AssemblyInfoInputs.cache
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp2.2\Globomantics.AssemblyInfo.cs

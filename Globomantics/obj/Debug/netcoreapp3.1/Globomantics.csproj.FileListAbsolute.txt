@@ -1,0 +1,97 @@
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.csprojAssemblyReference.cache
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.AssemblyInfoInputs.cache
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.AssemblyInfo.cs
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.csproj.CoreCompileInputs.cache
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\package.json
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Globomantics.exe
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Globomantics.deps.json
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Globomantics.runtimeconfig.json
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Globomantics.runtimeconfig.dev.json
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Globomantics.dll
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Globomantics.pdb
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.RazorTargetAssemblyInfo.cache
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\staticwebassets\Globomantics.StaticWebAssets.Manifest.cache
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\staticwebassets\Globomantics.StaticWebAssets.xml
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.dll
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.pdb
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.genruntimeconfig.cache
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.RazorAssemblyInfo.cache
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.RazorAssemblyInfo.cs
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Globomantics.Views.dll
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Globomantics.Views.pdb
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.TagHelpers.input.cache
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.TagHelpers.output.cache
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.RazorCoreGenerate.cache
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\Conference\Index.cshtml.g.cs
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.RazorTargetAssemblyInfo.cs
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.Views.pdb
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.csproj.CopyComplete
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\Conference\DisplayTemplates\ConferenceModel.cshtml.g.cs
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\Proposal\DisplayTemplates\ProposalModel.cshtml.g.cs
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\Proposal\Index.cshtml.g.cs
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\Conference\Add.cshtml.g.cs
+C:\Users\Z003ZV4V\source\repos\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\Proposal\Add.cshtml.g.cs
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\appsettings.json
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\bundleconfig.json
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\libman.json
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\package-lock.json
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\package.json
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Globomantics.exe
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Globomantics.deps.json
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Globomantics.runtimeconfig.json
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Globomantics.runtimeconfig.dev.json
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Globomantics.dll
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Globomantics.pdb
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Globomantics.Views.dll
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Globomantics.Views.pdb
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Certificate.dll
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Exchange.dll
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Shared.dll
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.dll
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Exchange.pdb
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Exchange.dll.config
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Shared.pdb
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.pdb
+D:\AP Apps\Globomantics\Globomantics\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.xml
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.csprojAssemblyReference.cache
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.AssemblyInfoInputs.cache
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.AssemblyInfo.cs
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.csproj.CoreCompileInputs.cache
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.MvcApplicationPartsAssemblyInfo.cache
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.RazorAssemblyInfo.cache
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.RazorAssemblyInfo.cs
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.TagHelpers.input.cache
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.TagHelpers.output.cache
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.RazorCoreGenerate.cache
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\Conference\Add.cshtml.g.cs
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\Conference\DisplayTemplates\ConferenceModel.cshtml.g.cs
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\Conference\Index.cshtml.g.cs
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\Proposal\Add.cshtml.g.cs
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\Proposal\DisplayTemplates\ProposalModel.cshtml.g.cs
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\Proposal\Index.cshtml.g.cs
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.RazorTargetAssemblyInfo.cache
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.RazorTargetAssemblyInfo.cs
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.Views.pdb
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.csproj.CopyComplete
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\staticwebassets\Globomantics.StaticWebAssets.Manifest.cache
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\staticwebassets\Globomantics.StaticWebAssets.xml
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.dll
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.pdb
+D:\AP Apps\Globomantics\Globomantics\obj\Debug\netcoreapp3.1\Globomantics.genruntimeconfig.cache

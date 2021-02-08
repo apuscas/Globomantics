@@ -1,0 +1,9 @@
+D:\AP Apps\Globomantics\Shared\bin\Debug\netcoreapp2.2\Shared.deps.json
+D:\AP Apps\Globomantics\Shared\bin\Debug\netcoreapp2.2\Shared.dll
+D:\AP Apps\Globomantics\Shared\bin\Debug\netcoreapp2.2\Shared.pdb
+D:\AP Apps\Globomantics\Shared\obj\Debug\netcoreapp2.2\Shared.csprojAssemblyReference.cache
+D:\AP Apps\Globomantics\Shared\obj\Debug\netcoreapp2.2\Shared.csproj.CoreCompileInputs.cache
+D:\AP Apps\Globomantics\Shared\obj\Debug\netcoreapp2.2\Shared.AssemblyInfoInputs.cache
+D:\AP Apps\Globomantics\Shared\obj\Debug\netcoreapp2.2\Shared.AssemblyInfo.cs
+D:\AP Apps\Globomantics\Shared\obj\Debug\netcoreapp2.2\Shared.dll
+D:\AP Apps\Globomantics\Shared\obj\Debug\netcoreapp2.2\Shared.pdb

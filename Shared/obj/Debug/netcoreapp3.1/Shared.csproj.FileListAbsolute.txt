@@ -1,0 +1,17 @@
+C:\Users\Z003ZV4V\source\repos\Globomantics\Shared\bin\Debug\netcoreapp3.1\Shared.deps.json
+C:\Users\Z003ZV4V\source\repos\Globomantics\Shared\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\Z003ZV4V\source\repos\Globomantics\Shared\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\Z003ZV4V\source\repos\Globomantics\Shared\obj\Debug\netcoreapp3.1\Shared.csprojAssemblyReference.cache
+C:\Users\Z003ZV4V\source\repos\Globomantics\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfoInputs.cache
+C:\Users\Z003ZV4V\source\repos\Globomantics\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfo.cs
+C:\Users\Z003ZV4V\source\repos\Globomantics\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Z003ZV4V\source\repos\Globomantics\Shared\obj\Debug\netcoreapp3.1\Shared.dll
+C:\Users\Z003ZV4V\source\repos\Globomantics\Shared\obj\Debug\netcoreapp3.1\Shared.pdb
+D:\AP Apps\Globomantics\Shared\bin\Debug\netcoreapp3.1\Shared.deps.json
+D:\AP Apps\Globomantics\Shared\bin\Debug\netcoreapp3.1\Shared.dll
+D:\AP Apps\Globomantics\Shared\bin\Debug\netcoreapp3.1\Shared.pdb
+D:\AP Apps\Globomantics\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfoInputs.cache
+D:\AP Apps\Globomantics\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfo.cs
+D:\AP Apps\Globomantics\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CoreCompileInputs.cache
+D:\AP Apps\Globomantics\Shared\obj\Debug\netcoreapp3.1\Shared.dll
+D:\AP Apps\Globomantics\Shared\obj\Debug\netcoreapp3.1\Shared.pdb
