@@ -33,7 +33,7 @@ namespace Exchange
                 TriggerEmailPooling,
                 null,
                 TimeSpan.Zero,
-                TimeSpan.FromMinutes(1)
+                TimeSpan.FromSeconds(5)
             );
 
             return Task.CompletedTask;

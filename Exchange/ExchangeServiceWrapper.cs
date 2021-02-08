@@ -15,16 +15,6 @@ namespace Exchange
         private readonly ITraceListener _traceListener;
         private readonly bool _traceEnabled;
 
-        //public ExchangeServiceWrapper()
-        //{
-        //    _traceEnabled = Convert.ToBoolean(System.Configuration.ConfigurationManager.AppSettings["EnableExchangeTracing"]);
-
-        //    if (_traceEnabled)
-        //    {
-        //        _traceListener = new TextTraceListener(System.Configuration.ConfigurationManager.AppSettings["ExchangeTracePath"]);
-        //    }
-        //}
-
         public IList<EmailMessage> FindItems(ExchangeConfigurationCredentials credentials, FolderId folderId, SearchFilter.SearchFilterCollection filter, ItemView itemView)
         {
             var client = GetClient(credentials);
